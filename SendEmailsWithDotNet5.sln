@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendEmailsWithDotNet5", "SendEmailsWithDotNet5\SendEmailsWithDotNet5.csproj", "{1ABB63EE-8085-42D9-BF28-379D9652280D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABB63EE-8085-42D9-BF28-379D9652280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABB63EE-8085-42D9-BF28-379D9652280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABB63EE-8085-42D9-BF28-379D9652280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABB63EE-8085-42D9-BF28-379D9652280D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0B2436-D2C2-419C-9383-FBB8AE93C013}
+	EndGlobalSection
+EndGlobal
